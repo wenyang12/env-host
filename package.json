@@ -1,0 +1,31 @@
+{
+  "name": "@tools/env-host",
+  "version": "1.0.0",
+  "description": "根据环境选择域名：主域名和静态资源域名",
+  "contributors": [
+    "Luoying <luoying@fxiaoke.com>"
+  ],
+  "homepage": "http://registry-npm.firstshare.cn/",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint index.js"
+  },
+  "pre-commit": [
+    "eslint"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://git.firstshare.cn/fe-tools/env-host.git"
+  },
+  "keywords": [
+    "host",
+    "environment",
+    "domain",
+    "static"
+  ],
+  "author": "luoying",
+  "license": "ISC",
+  "devDependencies": {
+    "pre-commit": "^1.1.3"
+  }
+}
