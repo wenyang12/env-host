@@ -1,6 +1,6 @@
 {
   "name": "@tools/env-host",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "根据环境选择域名：主域名和静态资源域名",
   "contributors": [
     "Luoying <luoying@fxiaoke.com>"
