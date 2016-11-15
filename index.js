@@ -8,11 +8,15 @@
 // 站点列表
 const SITES = {
   www: 'fxiaoke',
+  fxiaoke: 'fxiaoke',
   fsceshi: 'fsceshi',
+  ceshi: 'fsceshi',
   fte: 'fsfte',
   fte2: 'fsfte2',
   pte: 'fspte',
-  sde: 'fssde'
+  sde: 'fssde',
+  ceshi112: 'ceshi112',
+  ceshi113: 'ceshi113'
 };
 
 const args = process.argv;
